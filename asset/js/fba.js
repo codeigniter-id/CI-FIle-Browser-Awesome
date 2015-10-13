@@ -9,7 +9,7 @@
 var baseurl = 'http://your-domain.com/file';
 
 // Folder yang akan discan
-var browser = 'download';
+var browser = 'public_file';
 
 /* Testing di localhost */
 var fix = /\\/;
